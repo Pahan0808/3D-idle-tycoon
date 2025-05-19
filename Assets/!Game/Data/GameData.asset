@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1643c1e842bdf694ba794558a4b4dd6f, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  _autoPrices:
+  - AutoID: 0
+    Price: 859.6245
+  - AutoID: 1
+    Price: 881.83325
+  - AutoID: 2
+    Price: 1271.9873
+  - AutoID: 3
+    Price: 1659.4574
+  _materialPrices:
+  - ItemID: 0
+    Price: 11.760584
+  - ItemID: 2
+    Price: 17.534668
+  - ItemID: 3
+    Price: 6.7463007
+  - ItemID: 1
+    Price: 48.361008
+  _money: 17830.13
+  _parking:
+    <Autos>k__BackingField:
+    - AutoID: 2
+      Count: 0
+    - AutoID: 3
+      Count: 4
+  _warehouse:
+    <Items>k__BackingField:
+    - ItemID: 0
+      Count: 353
+    - ItemID: 3
+      Count: 326
+    - ItemID: 2
+      Count: 1656
+    - ItemID: 1
+      Count: 929
